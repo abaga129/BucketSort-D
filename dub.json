@@ -1,0 +1,9 @@
+{
+	"name": "bucketsort",
+	"authors": [
+		"Ethan Reker"
+	],
+	"description": "Bucket Sort in D",
+	"copyright": "Copyright © 2017, Reker",
+	"license": "MIT"
+}
